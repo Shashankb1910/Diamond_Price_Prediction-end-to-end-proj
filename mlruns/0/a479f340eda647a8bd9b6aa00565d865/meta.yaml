@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/fsdsmendtoend/mlruns/0/a479f340eda647a8bd9b6aa00565d865/artifacts
+end_time: 1701178896886
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a479f340eda647a8bd9b6aa00565d865
+run_name: omniscient-bat-89
+run_uuid: a479f340eda647a8bd9b6aa00565d865
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701178892493
+status: 3
+tags: []
+user_id: badgu

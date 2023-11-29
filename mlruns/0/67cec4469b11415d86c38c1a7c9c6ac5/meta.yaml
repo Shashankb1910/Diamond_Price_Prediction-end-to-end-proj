@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/fsdsmendtoend/mlruns/0/67cec4469b11415d86c38c1a7c9c6ac5/artifacts
+end_time: 1701178613131
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67cec4469b11415d86c38c1a7c9c6ac5
+run_name: bright-sow-822
+run_uuid: 67cec4469b11415d86c38c1a7c9c6ac5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701178607278
+status: 3
+tags: []
+user_id: badgu
