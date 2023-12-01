@@ -1,6 +1,6 @@
-# this is my end to end project
+# This is my end to end project
 
-# first initialize the git
+# Diamond Price Prediction
 
 ```
 git init
@@ -46,20 +46,21 @@ pip install -r requirements.txt
 ### dagshub
 [dagshub](https://dagshub.com/)
 
-MLFLOW_TRACKING_URI=https://dagshub.com/sunny.savita/fsdsmendtoend.mlflow \
-MLFLOW_TRACKING_USERNAME=sunny.savita \
-MLFLOW_TRACKING_PASSWORD=3c2c8cd1436ad32b510cfdd84944a528ba4fb650 \
+MLFLOW_TRACKING_URI=https://dagshub.com/Shashankb1910/Diamond_Price_Prediction-end-to-end-proj.mlflow \
+MLFLOW_TRACKING_USERNAME=Shashankb1910 \
+MLFLOW_TRACKING_PASSWORD=40aea5dfc244c1f1f09fc9d0e267b9bf72ddcb38 \
 python script.py
 
 Run this to export as env variables:
+#For cmd use "set" instead of export
 
 ```bash
 
-export MLFLOW_TRACKING_URI=https://dagshub.com/sunny.savita/fsdsmendtoend.mlflow
+export MLFLOW_TRACKING_URI=https://dagshub.com/Shashankb1910/Diamond_Price_Prediction-end-to-end-proj.mlflow 
 
-export MLFLOW_TRACKING_USERNAME=sunny.savita
+export MLFLOW_TRACKING_USERNAME=Shashankb1910
 
-export MLFLOW_TRACKING_PASSWORD=3c2c8cd1436ad32b510cfdd84944a528ba4fb650
+export MLFLOW_TRACKING_PASSWORD=40aea5dfc244c1f1f09fc9d0e267b9bf72ddcb38
 
 ```
 
