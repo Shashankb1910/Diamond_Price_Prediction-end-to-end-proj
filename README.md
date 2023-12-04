@@ -73,5 +73,9 @@ export MLFLOW_TRACKING_PASSWORD=40aea5dfc244c1f1f09fc9d0e267b9bf72ddcb38
 
 How to run this project ?
 - Run training pipeline 
+
+For predicting diamond price on local 
+- Run app.py and then go to current log and open link
+
 - For mlflow run - mlflow ui
 - For dagshub - Open dagshub uri 
